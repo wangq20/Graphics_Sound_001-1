@@ -17,3 +17,4 @@ Lewis Kim https://github.com/lewisKkim/ACI_KimLewis_GraphicsSound001
 
 
 ----
+Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
