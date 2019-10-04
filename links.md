@@ -9,6 +9,9 @@ Shawn Lawson    git@github.com:shawnlawson/EV9D9.git
 Mary Montgomery https://github.com/marymonty/ACI_Project001
 
 
+Nate Bennett https://github.com/natefbennett/dynamicCubes.git
+
+
 Yining Lai https://github.com/laiy3leo/LeoProject
 
 
