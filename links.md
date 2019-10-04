@@ -10,3 +10,4 @@ Shawn Lawson    git@github.com:shawnlawson/EV9D9.git
 Mary Montgomery https://github.com/marymonty/ACI_Project001
 
 ----
+Bingyu Xia https://github.com/BingyuXia17/PROJECT1_KIRA.git
