@@ -15,6 +15,9 @@ Nate Bennett https://github.com/natefbennett/dynamicCubes.git
 Yining Lai https://github.com/laiy3leo/LeoProject
 
 
+Darius Smith https://github.com/Haldrion/OSCMikuProcessing
+
+
 Boyuan Zheng https://github.com/Hanapon0412/Graphics_Sound_001.git
 
 
