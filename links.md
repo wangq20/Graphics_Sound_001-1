@@ -18,6 +18,9 @@ Yining Lai https://github.com/laiy3leo/LeoProject
 Queena Wang https://github.com/wangq20/Graphics_Sound_001
 
 
+Darius Smith https://github.com/Haldrion/OSCMikuProcessing
+
+
 Boyuan Zheng https://github.com/Hanapon0412/Graphics_Sound_001.git
 
 
